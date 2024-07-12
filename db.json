@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": " write a eassy of 300 words",
+      "status": false
+    }
+  ]
+}
